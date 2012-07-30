@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: David Knell
+license: Specify your license
+copyright: 2012 David Knell
+
+
+# these should not be edited
+name: mymedia
+moduleid: my.media
+guid: d9a23a29-98b1-456e-93d9-fdc85ed0f0ec
+platform: iphone
+minsdk: 2.1.0.GA
