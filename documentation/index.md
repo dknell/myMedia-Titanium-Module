@@ -2,10 +2,10 @@
 
 A hacked version of Ti.Media so that Ti.Media.openPhotoGallery provides location and EXIF data in the success callback
 
-![EXIF data](https://github.com/dbubs/myMedia-Titanium-Module/tree/master/documentation/IMG_3259.PNG_ "EXIF data")
-![EXIF data](https://github.com/dbubs/myMedia-Titanium-Module/tree/master/documentation/IMG_3260.PNG_ "more EXIF data")
-![EXIF data](https://github.com/dbubs/myMedia-Titanium-Module/tree/master/documentation/IMG_3261.PNG_ "more EXIF data")
-![Location data](https://github.com/dbubs/myMedia-Titanium-Module/tree/master/documentation/IMG_3262.PNG_ "Location data")
+![EXIF data](https://github.com/dbubs/myMedia-Titanium-Module/blob/master/documentation/IMG_3259.PNG "EXIF data")
+![EXIF data](https://github.com/dbubs/myMedia-Titanium-Module/blob/master/documentation/IMG_3260.PNG_ "more EXIF data")
+![EXIF data](https://github.com/dbubs/myMedia-Titanium-Module/blob/master/documentation/IMG_3261.PNG_ "more EXIF data")
+![Location data](https://github.com/dbubs/myMedia-Titanium-Module/blob/master/documentation/IMG_3262.PNG_ "Location data")
 
 ## Description
 
