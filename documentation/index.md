@@ -8,13 +8,19 @@ This module was created to be used in place of Ti.Media.openPhotoGallery when lo
 
 ## Accessing the mymedia Module
 
-Add the module to the tiapp.xml file:
+1. Build the module:
+
+	./build.py
+
+2. Copy my.media-iphone-X.X.zip (where X.X is the version) to the ROOT of your project (same directory as tiapp.xml)
+
+3. Add the module to the tiapp.xml file:
 
 	<modules>
         <module platform="iphone" version="0.1">my.media</module>
     </modules>
 
-To access this module from JavaScript, you would do the following:
+4. To access this module from JavaScript, you would do the following:
 
 	var mymedia = require("my.media");
 
