@@ -26,7 +26,8 @@ This module was created to be used in place of Ti.Media.openPhotoGallery when lo
 ```
 	<modules>
 		<module platform="iphone" version="0.1">my.media</module>
-    </modules>```
+    </modules>
+```
 
 5. To access this module from JavaScript, you would do the following:
 
