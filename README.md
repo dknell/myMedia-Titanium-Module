@@ -79,7 +79,7 @@ The mymedia variable is a reference to the Module object.
 
 ## Author
 
-David Knell (Twitter: dknell)
+David Knell (Twitter: [dknell](http://twitter.com/dknell))
 
 ## License
 
