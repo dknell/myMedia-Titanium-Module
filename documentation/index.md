@@ -12,7 +12,7 @@ This module was created to be used in place of Ti.Media.openPhotoGallery when lo
 
 ## Accessing the mymedia Module
 
-1. Make sure the path to your Titanium Mobile SDK in titanium.xcconfig. The `~` denotes your home directory. You may have to remove the `~` if the SDK is not installed there.
+1. Make sure the path to your Titanium Mobile SDK in titanium.xcconfig is correct. The `~` denotes your home directory. You may have to remove the `~` if the SDK is not installed there.
 
 	`TITANIUM_SDK = ~/Library/Application Support/Titanium/mobilesdk/osx/$(TITANIUM_SDK_VERSION)`
 
