@@ -31,3 +31,6 @@ OTHER_LDFLAGS[sdk=iphonesimulator4*]=$(inherited) -framework AssetsLibrary
 
 OTHER_LDFLAGS[sdk=iphoneos5*]=$(inherited) -framework AssetsLibrary
 OTHER_LDFLAGS[sdk=iphonesimulator5*]=$(inherited) -framework AssetsLibrary
+
+OTHER_LDFLAGS[sdk=iphoneos6*]=$(inherited) -framework AssetsLibrary
+OTHER_LDFLAGS[sdk=iphonesimulator6*]=$(inherited) -framework AssetsLibrary
