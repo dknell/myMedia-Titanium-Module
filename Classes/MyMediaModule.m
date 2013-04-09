@@ -14,7 +14,7 @@
 #import "Mimetypes.h"
 #import "TiViewProxy.h"
 #import "Ti2DMatrix.h"
-#import "SCListener.h"
+/* #import "SCListener.h" */
 #import "TiMediaAudioSession.h"
 #import "TiMediaMusicPlayer.h"
 #import "TiMediaItem.h"
@@ -1529,6 +1529,7 @@ MAKE_SYSTEM_PROP(VIDEO_FINISH_REASON_USER_EXITED,MPMovieFinishReasonUserExited);
 	[self sendPickerCancel];
 }
 
+/*
 #pragma mark Microphone support
 
 -(void)startMicrophoneMonitor:(id)args
@@ -1558,6 +1559,7 @@ MAKE_SYSTEM_PROP(VIDEO_FINISH_REASON_USER_EXITED,MPMovieFinishReasonUserExited);
 	}
 	return -1;
 }
+*/
 
 #pragma mark Delegates
 
